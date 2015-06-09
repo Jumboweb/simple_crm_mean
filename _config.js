@@ -1,0 +1,1 @@
+module.exports = {  'port': process.env.PORT || 8080,  'database': 'mongodbDataBase',  'secret': '<YourSecretPassphraseForJwtoken>'};

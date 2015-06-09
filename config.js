@@ -1,0 +1,1 @@
+module.exports = {  'port': process.env.PORT || 8080,  'database': 'mongodb://node:noder@proximus.modulusmongo.net:27017/sanaVu9r',  'secret': 'ilovescotchscotchyscotchscotch'};
